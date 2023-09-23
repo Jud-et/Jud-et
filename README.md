@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Judith Karuku</h1>
 <h3 align="center">A passionate software developer from Kenya</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Jud-et/Jud-et/master/gif3.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jud-et&label=Profile%20views&color=0e75b6&style=flat" alt="jud-et" /> </p>
 
 - 🌱 I’m currently learning **Python**
