@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jud-et&label=Profile%20views&color=0e75b6&style=flat" alt="jud-et" /> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **blockchain **
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jud-et](https://github.com/Jud-et)
 
