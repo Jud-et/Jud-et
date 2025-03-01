@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jud-et&label=Profile%20views&color=0e75b6&style=flat" alt="jud-et" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning **
+- 🌱 I’m currently learning **Machine Learning/AI **
 -  💼 Full-stack software engineer with a strong passion for creating robust web applications
 -  💻 Proficient in a wide range of technologies, from frontend, backend databases, SEO ,web3 dapps to machine learning .
 
