@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning/AI **
 -  💼 Full-stack software engineer with a strong passion for creating robust systems,Dapps,and definetly some handy tools.
--  💻 Proficient in a wide range of technologies, from,Tech Enterpreneur,frontend, backend databases, SEO ,web3 dapps, AI ,Deep learning ,machine learning to your lets talk business: yes,yes in Tech.
+-  💻 Proficient in a wide range of technologies, from,Tech Enterpreneur,frontend, backend databases, SEO ,web3 dapps, AI ,Deep learning ,machine learning to your lets talk business buddy: yes,yes in Tech :).
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jud-et](https://github.com/Jud-et)
 
