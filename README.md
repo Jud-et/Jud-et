@@ -4,14 +4,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jud-et&label=Profile%20views&color=0e75b6&style=flat" alt="jud-et" /> </p>
 
 - 🌱 I’m currently learning **Machine Learning/AI **
--  💼 Full-stack software engineer with a strong passion for creating robust web applications
--  💻 Proficient in a wide range of technologies, from frontend, backend databases, SEO ,web3 dapps, AI ,Deep learning to machine learning .
+-  💼 Full-stack software engineer with a strong passion for creating robust systems,Dapps,and definetly some handy tools.
+-  💻 Proficient in a wide range of technologies, from,Tech Enterpreneur,frontend, backend databases, SEO ,web3 dapps, AI ,Deep learning ,machine learning to your lets talk business: yes,yes in Tech.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jud-et](https://github.com/Jud-et)
 
 - 📫 How to reach me **judithk859@gmail.com**
 
-- ⚡ Fun fact **Turning caffeine into code, one semicolon at a time ☕💻**
+- ⚡ Fun fact **Turning caffeine into code, one semicolon at a time ☕💻if findig it hard? you can always jump yourself happy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
