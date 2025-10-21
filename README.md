@@ -29,6 +29,10 @@
 <a href="https://instagram.com/___judith_4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___judith_4" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/jud-ks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="jud-ks" height="30" width="40" /></a>
 <a href="https://discord.gg/judi.th_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="judi.th_" height="30" width="40" /></a>
+  <a href="https://x.com/JudithKaru97166" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/IgnaceMaes/744cd9cf41ec6acf46fc8f4e9f370f86/raw/x-logo.svg" alt="JudithKaru97166" height="30" width="40" />
+</a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
